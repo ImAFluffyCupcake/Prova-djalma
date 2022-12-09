@@ -1,0 +1,6 @@
+R.A 6321039
+
+O arquivo principal é o arquivo: site 
+
+as imagens do site principal são place holders, por eu ainda estar terminando o desing das imagens 
+definitivas, cenarios, e sprites de personagens
